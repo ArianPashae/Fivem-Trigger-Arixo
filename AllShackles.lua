@@ -1,0 +1,4 @@
+-TriggerEvent('esx_policejob:handcuff', -1)
+-TriggerEvent('esx_lcnjob:handcuff', -1)
+-TriggerServerEvent('esx_gangjob',-1)
+-TriggerServerEvent('esx_playermenu:handcuff',(ID))
