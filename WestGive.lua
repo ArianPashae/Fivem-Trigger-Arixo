@@ -1,0 +1,1 @@
+-TriggerServerEvent('esx_policejob:giveweste')
