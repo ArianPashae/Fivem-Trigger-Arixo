@@ -1,0 +1,2 @@
+-TriggerEvent('esx_status:set', 'hunger', 1000000)
+-TriggerEvent('esx_status:set', 'thirst', 1000000)
