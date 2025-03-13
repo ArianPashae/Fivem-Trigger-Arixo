@@ -1,0 +1,5 @@
+-TriggerServerEvent('esx_dmvschool:addLicense', 'drive_truck')
+-TriggerServerEvent('esx_dmvschool:addLicense', 'drive_bike')
+-TriggerServerEvent('esx_dmvschool:addLicense', 'drive')
+-TriggerServerEvent('esx_dmvschool:addLicense', 'dmv ')
+-TriggerServerEvent('esx_weashop:buyLicense', 0)
