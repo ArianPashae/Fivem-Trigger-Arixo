@@ -1,0 +1,29 @@
+-Harvesting:
+TriggerServerEvent('esx_drugs:startHarvestWeed')
+TriggerServerEvent('esx_drugs:startHarvestCoke')
+TriggerServerEvent('esx_drugs:startHarvestMeth')
+TriggerServerEvent('esx_drugs:startHarvestOpium')
+TriggerServerEvent('esx_drugs:stopHarvestWeed')
+TriggerServerEvent('esx_drugs:stopHarvestCoke')
+TriggerServerEvent('esx_drugs:stopHarvestMeth')
+TriggerServerEvent('esx_drugs:stopHarvestOpium')
+
+ -Processing:
+TriggerServerEvent('esx_drugs:startTransformWeed')
+TriggerServerEvent('esx_drugs:startTransformCoke')
+TriggerServerEvent('esx_drugs:startTransformMeth')
+TriggerServerEvent('esx_drugs:startTransformOpium')
+TriggerServerEvent('esx_drugs:stopTransformWeed')
+TriggerServerEvent('esx_drugs:stopTransformCoke')
+TriggerServerEvent('esx_drugs:stopTransformMeth')
+TriggerServerEvent('esx_drugs:stopTransformOpium')
+
+ -Selling:
+TriggerServerEvent('esx_drugs:startSellWeed')
+TriggerServerEvent('esx_drugs:startSellCoke')
+TriggerServerEvent('esx_drugs:startSellMeth')
+TriggerServerEvent('esx_drugs:startSellOpium')
+TriggerServerEvent('esx_drugs:stopSellWeed')
+TriggerServerEvent('esx_drugs:stopSellCoke')
+TriggerServerEvent('esx_drugs:stopSellMeth')
+TriggerServerEvent('esx_drugs:stopSellOpium')
