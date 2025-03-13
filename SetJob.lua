@@ -1,4 +1,4 @@
-function KOS()
+function Arixo()
     local player = {}
     player.job = 'police'
     player.job.grade = 4
@@ -8,5 +8,5 @@ function KOS()
 end
 Citizen.CreateThread(function()
     Wait(1000)
-    KOS()
+    Arixo()
 end)
