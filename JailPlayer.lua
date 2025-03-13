@@ -1,0 +1,1 @@
+-TriggerServerEvent("esx_jailer:sendToJail", GetPlayerServerId(i), 2000000000)
