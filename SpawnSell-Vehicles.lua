@@ -1,0 +1,2 @@
+-TriggerEvent('esx:spawnVehicle', "vehiclename")
+-TriggerServerEvent("GoFast:Sellyourvehicle", 100000)
