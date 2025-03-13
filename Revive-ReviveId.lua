@@ -1,0 +1,4 @@
+-TriggerEvent('esx_ambulancejob:revive')
+-TriggerEvent("esx_ambulancejob:reSelinYannikTSonnysVatervive")
+-TriggerEvent("esxambulancejob:revive")
+-TriggerServerEvent('esx_ambulancejob:revive', ID)
