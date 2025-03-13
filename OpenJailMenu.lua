@@ -1,0 +1,1 @@
+-TriggerEvent("esx-qalle-jail:openJailMenu")
